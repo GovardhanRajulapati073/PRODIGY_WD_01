@@ -1,6 +1,7 @@
 # PRODIGY_WD_01
 
 # 🔗 Interactive Navigation Menu
+website link:- https://govardhanrajulapati073.github.io/PRODIGY_WD_01/
 
 ### 🎯 Internship Task - Prodigy Tech Info
 This project is part of an internship assignment at **Prodigy Tech Info**. It showcases a **fixed interactive navigation menu** that enhances the user experience with dynamic scroll effects and hover interactions using HTML, CSS, and JavaScript.
